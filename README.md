@@ -21,3 +21,6 @@ Clone o repositório:
 git clone https://github.com/lbcb-ufabc/carbono_slurm.git
 cd carbono_slurm
 ```
+---
+## 📌 Autoria
+Adaptado por Yolanda Marcello.
