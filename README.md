@@ -1,4 +1,3 @@
-# carbono_slurm
 ## 📌 Descrição
 Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM.
 
