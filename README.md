@@ -11,7 +11,6 @@ Ferramenta para submissão e gerenciamento de jobs em clusters com SLURM, adapta
 ---
 # 📂 Estrutura do repositório
 ```text
-.
 ├── gpu_carbono.slurm      # Jobs usando GPU
 ├── vmod_carbono.slurm     # Jobs vmod
 ├── README-en.md           # README em inglês
